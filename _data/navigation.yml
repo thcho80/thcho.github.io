@@ -6,6 +6,8 @@ main:
     url: /about/ 
   - title: "카테고리"
     url: /categories/ 
+  - title: "공부일기"
+    url: /categories/공부일기    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
