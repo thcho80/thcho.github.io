@@ -4,10 +4,12 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/ 
-  - title: "카테고리"
+  - title: "categories"
     url: /categories/ 
-  - title: "공부일기"
-    url: /categories/공부일기    
+  - title: "tags"
+    url: /tags/
+  - title: "66"
+    url: /categories/66습관    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

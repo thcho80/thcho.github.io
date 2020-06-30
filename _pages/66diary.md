@@ -1,7 +1,7 @@
 ---
-title: "66공부일기"
-permalink: /categories/공부일기/
+title: "66습관"
+permalink: /categories/66습관/
 layout: category
 author_profile: true
-taxonomy: 공부일기
+taxonomy: 66습관
 ---
