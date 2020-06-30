@@ -4,10 +4,10 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/ 
-  - title: "categories"
+  - title: "Categories"
     url: /categories/ 
   - title: "tags"
-    url: /tags/
+    url: /Tags/
   - title: "66"
     url: /categories/66습관    
   # - title: "About"
