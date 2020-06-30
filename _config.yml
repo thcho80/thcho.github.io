@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "thcho80" #"Your Name"
-  avatar           : "/assets/image/IMG_0010.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/IMG_0004.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea" #"Somewhere"
   email            :
