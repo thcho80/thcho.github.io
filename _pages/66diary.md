@@ -1,7 +1,7 @@
 ---
-title: "66습관"
-permalink: /categories/66습관/
+title: "66Day"
+permalink: /categories/66Day/
 layout: category
 author_profile: true
-taxonomy: 66습관
+taxonomy: 66Day
 ---

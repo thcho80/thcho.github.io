@@ -8,8 +8,8 @@ main:
     url: /categories/ 
   - title: "Tags"
     url: /tags/
-  - title: "66"
-    url: /categories/66습관    
+  - title: "66Day"
+    url: /categories/66Day
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
