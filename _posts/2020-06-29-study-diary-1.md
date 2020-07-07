@@ -25,6 +25,9 @@ tags:
 - Bowing Game Kata
 - ITFIND 자료 인쇄하여 출퇴근길 읽기
   - 링바인더에 정리해서 올려둘것
+  
+### 2.2 스프링부트
+- 스프링부트 공식 사이트
 
 ### 2.2 운동
 - 헬스
@@ -32,6 +35,7 @@ tags:
 ## 3. 전략과목
 - 통계학 기반의 빅데이터 분석
 - AWS
+[link](https://tech.cloud.nongshim.co.kr/category/techblog/aws-tech/)
 - 머신러닝
 - 블럭체인
 
