@@ -1,5 +1,5 @@
 ---
-title:  "2020-07-17"
+title:  "마이데이터"
 excerpt: "마이데이터"
 
 categories:
