@@ -3,11 +3,9 @@ title:  "볼링게임"
 excerpt: "junit 학습테스트"
 toc: true
 toc_sticky: true
-header:
-  teaser: "/assets/image/IMG_0081.JPG"
 
 categories:
-  - Deb
+  - dev
 tags:
   - [JUNIT, UML, Design Pattern]
 ---
@@ -20,7 +18,7 @@ tags:
 ### 1.2 제약사항
 1. 스페어
 2. 스트라이크
-3. exstra roll
+3. extra roll
 
 ### 1.3 학습내용
 1. UML
