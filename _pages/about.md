@@ -4,10 +4,21 @@ permalink: /about/
 layout: single
 ---
 
-## devinlife.github.io 블로그
+이 블로그는 공부를 위한 습관과 개인의 일상을 기록하는 창고이다.
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+## 1. 66Day
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+습관일기.
+
+## 2. 일상
+
+행복한 삶.
+
+## 3. Dev
+
+기술부채상환, 최신기술
+
+## 4. 프로젝트
+
+Dev 활용.
+
