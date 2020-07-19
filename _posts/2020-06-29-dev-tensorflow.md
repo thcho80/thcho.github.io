@@ -3,7 +3,7 @@ title:  "tensorflow"
 excerpt: "tensorflow 개발환경구축"
 
 categories:
-  - ML
+  - dev
 tags:
   - tensorflow
 
