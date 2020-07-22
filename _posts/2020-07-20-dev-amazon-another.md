@@ -1,6 +1,6 @@
 ---
-title:  "아마존 웹서비스(2)"
-excerpt: "어플리케이션 설치"
+title:  "AWS에 OPENVPN설치"
+excerpt: "openVpn서버를 이용하여 private subnet의 EC2에 접속"
 
 categories:
   - dev
