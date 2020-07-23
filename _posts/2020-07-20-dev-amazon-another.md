@@ -249,3 +249,5 @@ comp-lzo no를 클라이언트의 config/.ovpn 파일에 추가해준다
 
 ### 8. 결과
 클라이언트에서 public vpc에 구축한 openvpn을 통하여 공인아이피가 할당되지 않는 private subnet 내의 ec2 인스턴스에 자유롭게 접속할 수 있다
+NAT인스턴스와 openVPN서버는 별도로 구성해야 동작한다.
+- NAT 시큐리티그룹에 
