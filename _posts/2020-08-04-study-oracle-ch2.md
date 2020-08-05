@@ -5,12 +5,12 @@ excerpt: "트랜잭션과Lock"
 categories:
   - 66Day
 tags:
-  - 공부일기, oracle
+  - [공부일기, oracle]
 
 ---
 
 
-## CH2. 트랜잭션과 lock
+##CH2. 트랜잭션과 lock
 
 1. 트랜잭션 동시성제어
 	1) 동시성제어

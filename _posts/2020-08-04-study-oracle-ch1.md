@@ -5,7 +5,7 @@ excerpt: "oracle 성능고도화원리"
 categories:
   - 66Day
 tags:
-  - 공부일기, oracle
+  - [공부일기, oracle]
 
 ---
 

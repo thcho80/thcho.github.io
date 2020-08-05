@@ -5,7 +5,7 @@ excerpt: "오라클성능관리"
 categories:
   - 66Day
 tags:
-  - 공부일기, oracle
+  - [공부일기, oracle]
 
 ---
 
