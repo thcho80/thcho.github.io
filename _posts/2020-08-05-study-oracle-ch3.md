@@ -9,7 +9,41 @@ tags:
 
 ---
 
-## ch3
+## CH3. 오라클 성능관리
+
+1. Explain plan
+
+2. Autotrace
+
+3. Sql trace
+
+4. DBMS_XPLAN 패키지
+
+5. V$SYSSTAT
+
+6. V$SYSTEM_EVENT
+
+7. Response Time Analysis 분석과 OWI
+
+8. Statspack/AWR(Automatic Workload repository)
+	- 주기적으로 동적 성능 뷰를 수집
+	- Oracle Database에 대한 부하, resource 사용량의 trend 분석, 성능 문제 분석
+	- Statspack : 8i~, SQL을 이용한 딕셔너리 조회
+	- AWR : 10g~, DMA(Direct Memory Access)방식으로 SGA를 직접 액세스
+	
+9. ASH(Active Session History)
+
+10. V$SQL
+
+11. end-to-end 성능관리
+
+12. 데이터베이스 성능고도화 정석해법
+	- 튜닝 절차
+	- 튜닝 3대요소
+	- 튜닝 범위
+	
+	
+
 
 ### 실행계획 plan 테이블
 select * from plan_table;
