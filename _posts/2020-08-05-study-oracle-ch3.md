@@ -12,11 +12,14 @@ tags:
 ## CH3. 오라클 성능관리
 
 1. Explain plan
-
+	1. explain plan for *QUERY
+	2. utlxplan.sql, utlxls.sql, utlxlp.sql
 2. Autotrace
 
 3. Sql trace
 	1. 자기세션 트레이스
+		- TKProf
+		- 10046 이벤트트레이스
 	2. 다른세션 트레이스
 	3. service, module, action단위로 트레이스
 	
@@ -26,9 +29,15 @@ tags:
 	3. 캐싱된 커서의 row source별 실행계획 출력
 	
 5. V$SYSSTAT
-
+	- v$sysstat, v$sesstat, v$mystat
+	1. 시스템 수행 통계 수집 및 분석
+	2. Ratio 기반 성능 분석
+	
 6. V$SYSTEM_EVENT
-
+	1. v$system_event
+	2. v$session_event
+	3. v$session_wait
+	
 7. Response Time Analysis 분석과 OWI
 
 8. Statspack/AWR(Automatic Workload repository)
