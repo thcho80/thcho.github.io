@@ -16,9 +16,15 @@ tags:
 2. Autotrace
 
 3. Sql trace
-
+	1. 자기세션 트레이스
+	2. 다른세션 트레이스
+	3. service, module, action단위로 트레이스
+	
 4. DBMS_XPLAN 패키지
-
+	1. 예상실행계획 출력
+	2. 캐싱된 커서의 실제 실행계획 출력
+	3. 캐싱된 커서의 row source별 실행계획 출력
+	
 5. V$SYSSTAT
 
 6. V$SYSTEM_EVENT
