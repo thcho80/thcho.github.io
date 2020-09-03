@@ -62,8 +62,28 @@ gets(), sprintf(), strcat(), strcpy(), vsprintf() 등등
 - Stack : 메모리 높은주소부터 쌓임. 
   
 ### 스택 프레임 구조
+> ESP(스택포인터)가 아닌 EBP(베이스포인터)레지스터를 사용하여 스택내 로컬변수, 파라메터, 복귀주소에 접근하는 기법
+
 
 #### 구조
+1)
+(프롤로그)
+push ebp      ; Preserve current frame pointer
+mov ebp, esp  ; Create new frame pointer pointing to current stack top
+sub esp, 20   ; allocate 20 bytes worth of locals on stack.
+  
+···                           :  새로운 함수의 내용
+ex)
+mov [ebp-4], eax    ; Store eax in first local
+mov ebx, [ebp - 8]  ; Load ebx from second local
+
+  
+(에필로그)
+MOV		 ESP, EBP             :  ESP를 함수 시작했을 때의 값으로 복원
+POP 	 EBP                  :  리턴되기 전에  저장해놨던 원래 EBP 값으로 복원
+RETN                          :  함수 종료
+
+2)
 함수가 호출될 때 생성되고, 함수 실행이 종료 될 때 해제되어 프로그램이 실행됨에 따라 동적으로 변화
 |항목								|	|
 |---							|---|
