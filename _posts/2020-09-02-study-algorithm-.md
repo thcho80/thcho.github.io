@@ -38,7 +38,6 @@ RDI : 목적지(destination) 인덱스 레지스터
 - 인덱스 레지스터 : 데이터 R/W시 근원지와 목적지 정보를 가르키는 포인터
   
   
-
 RIP : 프로세서가 읽고있는 현재 명령의 위치를 가리키는 명령포인터(Instruction Pointer)레지스터
 
 ### ret와 stp
