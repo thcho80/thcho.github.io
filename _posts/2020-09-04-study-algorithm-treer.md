@@ -1,5 +1,5 @@
 ---
-title:  "함수호출순서"
+title:  "B트리 B*트리 B+트리"
 excerpt: "알고리즘"
 
 categories:
