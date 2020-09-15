@@ -47,7 +47,8 @@ y축 :
 1. ~   
 **가.** 정의   
 **나.** 부각이유, 필요성
-
+   
+   
 2. ~   
 **가.** 구성도   
 **나.** 구성요소
@@ -57,12 +58,8 @@ y축 :
 	
 
 - 템플릿
-![1교시템플릿](../assets/image/template.PNG);
-[출처-K씨's 쪼꼬렛팩토리](https://m.blog.naver.com/PostView.nhn?blogId=renucs&logNo=176168293&proxyReferer=https:%2F%2Fwww.google.com%2F)
-
-![1교시템플릿](../assets/image/template.PNG);
-![1교시템플릿](https://thcho80.github.io/assets/image/template.PNG);
 ![1교시템플릿](/assets/image/template.PNG);
+[출처-K씨's 쪼꼬렛팩토리](https://m.blog.naver.com/PostView.nhn?blogId=renucs&logNo=176168293&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ### 2번포맷
 
