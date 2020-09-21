@@ -94,5 +94,14 @@ tags:
 - Result - 결과
 
 #### 16. Zachman Framework
-PODB상세 구성요소
+- PODB상세 구성요소
+
+	|FW|Data(what)|Function(How)|Network(Where)|People(who)|Time(when)|Motivation(why)|
+	|---|---|---|---|---|---|---|
+	|Scope(contextual)|
+	|Business-model(conceptual)|
+	|System-model(logical)|
+	|Technology-model(physical)|
+	|Detailed-representations(sub contractor)|
+	|Functioning Enterprise|
 ![1교시템플릿](/assets/image/zachman-framework.png)  
