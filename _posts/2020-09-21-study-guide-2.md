@@ -98,7 +98,7 @@ tags:
 #### 16. Zachman Framework
 - PODB상세 구성요소
 - 무엇을,어떻게,어디서,누가,언제,왜?
-- (다푸네피티모)(콘콘로피서사)
+- (데푸네피티모)(콘콘로피서사)
 
 	|FW|Data(what)|Function(How)|Network(Where)|People(who)|Time(when)|Motivation(why)|
 	|---|---|---|---|---|---|---|
