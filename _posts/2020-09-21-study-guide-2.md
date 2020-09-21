@@ -98,10 +98,11 @@ tags:
 
 	|FW|Data(what)|Function(How)|Network(Where)|People(who)|Time(when)|Motivation(why)|
 	|---|---|---|---|---|---|---|
-	|Scope(contextual)|
-	|Business-model(conceptual)|
-	|System-model(logical)|
-	|Technology-model(physical)|
-	|Detailed-representations(sub contractor)|
-	|Functioning Enterprise|
+	|Scope(contextual)||||||||
+	|Business-model(conceptual)||||||||
+	|System-model(logical)||||||||
+	|Technology-model(physical)||||||||
+	|Detailed-representations(sub contractor)||||||||
+	|Functioning Enterprise||||||||
+	
 ![1교시템플릿](/assets/image/zachman-framework.png)  
