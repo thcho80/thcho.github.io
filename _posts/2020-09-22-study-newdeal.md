@@ -9,7 +9,8 @@ tags:
 
 ---
 
-[참고사이트-한국판뉴딜](http://www.moef.go.kr/mp/nd/newDeal.do)
+[참고사이트-한국판뉴딜](http://www.moef.go.kr/mp/nd/newDeal.do)   
+
 [참고사이트-뉴딜세부전략](https://www.gov.kr/portal/ntnadmNews/2208307)
 
 ## 한국판뉴딜
