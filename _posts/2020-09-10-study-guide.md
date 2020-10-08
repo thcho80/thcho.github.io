@@ -5,7 +5,7 @@ excerpt: "십자사고법, 1교시, 2교시"
 categories:
   - 66Day
 tags:
-  - [공부일기, writing]
+  - [공부일기, 글쓰기]
 
 ---
 
