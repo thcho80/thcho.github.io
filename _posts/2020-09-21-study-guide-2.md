@@ -36,6 +36,7 @@ tags:
 - 각 항목은 다른 항목과 융합이 가능하다
 	- ex) 5.SDLC + 6.품질주특성 - 획득(기능성, 사용성), 공급(신뢰성, 효율성), 개발(유지보수성, 이식성)
 - 각 항복별 4개이상 암기
+
 	
 #### 1. 기본표
 - 관물기 - 관리관점 , 물리관점, 기술관점
@@ -43,6 +44,7 @@ tags:
 - (개특장단공)개요, 특징, 장점, 단점, 공통점 → 비교표
 
 #### 2. 상단표(헤드라인으로 사용)
+**상단표3**프방시
 - 프로세스 - 절차, 산출물, 기법
 - 방안 - 이슈, 해결방안, 주요기술
 - 시간순 - 시작, 진행, 종료, 주요산출물
@@ -51,9 +53,14 @@ tags:
 #### 3. 경영 SMART평가기준
 - 구체성, 측정가능성, 행동지향성, 실현가능성, 시의성 **→ 전략, 방향, 방안**
 
-
+#### 17. ABCD
+- **A**udience(대상)
+- **B**ehavior(행위)
+- **C**ondition(조건)
+- **D**egree(기준)
 
 #### 4. 품질주특성(ISO9126)
+**품질주특성6**기사신효유이
 - 기능성(F), 사용성(U), 신뢰성(R), 효율성(P), 유지보수성(S), 이식성
 
 #### 5. 감리프레임워크 산출물평가기준
@@ -89,16 +96,16 @@ tags:
 
 #### 14. FABE기법
 상품에 대한 논리적 구성기법으로 자주 사용되는 프레임워크 →  오브젝트에 접목
-- Feature(특성) - 상품의 특성평가
-- Advantage(장점) - 고객의 needs, wants 부합요소
-- Benefit(이익) - 고객의 이익
-- Evidence(증거) - 증명, 수치화
+- **F**eature(특성) - 상품의 특성평가
+- **A**dvantage(장점) - 고객의 needs, wants 부합요소
+- **B**enefit(이익) - 고객의 이익
+- **E**vidence(증거) - 증명, 수치화
 
 #### 15. STAR기법
-- Situation - 현황
-- Task - 업무, 과업목표
-- Action - 행동, 전략
-- Result - 결과
+- **S**ituation - 현황
+- **T**ask - 업무, 과업목표
+- **A**ction - 행동, 전략
+- **R**esult - 결과
 
 #### 16. Zachman Framework
 - PODB상세 구성요소
@@ -114,10 +121,7 @@ tags:
 	|Detailed-representations(sub contractor)||||||||
 	|Functioning Enterprise||||||||
 
-#### 17. ABCD
-- **A**udience(대상)
-- **B**ehavior(행위)
-- **C**ondition(조건)
-- **D**egree(기준)
 	
-![1교시템플릿](/assets/image/zachman-framework.png)  
+![1교시템플릿](/assets/image/zachman-framework.png) 
+
+ 
