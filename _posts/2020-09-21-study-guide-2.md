@@ -113,5 +113,11 @@ tags:
 	|Technology-model(physical)||||||||
 	|Detailed-representations(sub contractor)||||||||
 	|Functioning Enterprise||||||||
+
+#### 17. ABCD
+- **A**udience(대상)
+- **B**ehavior(행위)
+- **C**ondition(조건)
+- **D**egree(기준)
 	
 ![1교시템플릿](/assets/image/zachman-framework.png)  
