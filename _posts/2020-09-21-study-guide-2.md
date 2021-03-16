@@ -121,7 +121,11 @@ tags:
 	|Detailed-representations(sub contractor)||||||||
 	|Functioning Enterprise||||||||
 
-	
+#### 17. 
+- Business(업무)
+- Financial(재무)
+- Technique	(기술)
+
 ![1교시템플릿](/assets/image/zachman-framework.png) 
 
  
