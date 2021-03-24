@@ -11,9 +11,16 @@ tags:
 
 ## 단어공부
 
-https://app.memrise.com/course/368149/hangugeo-topik-eohwi-gogeub-50-days-advanced-topik/
+[단어집](https://app.memrise.com/course/368149/hangugeo-topik-eohwi-gogeub-50-days-advanced-topik/)
 
 ## 접미사
+관우부활  
+접시상추  
+발매핵선  
+기풍대인  
+동가방전  
+활위한통  
+
 
 관계도
 우선순위
@@ -44,6 +51,13 @@ https://app.memrise.com/course/368149/hangugeo-topik-eohwi-gogeub-50-days-advanc
 ---
 
 ## 비교표
+목배특장단  
+구비개품  
+유비활기  
+장기표난  
+정위소계  
+통보적학  
+학모특알  
 
 목적
 배경
@@ -73,12 +87,12 @@ https://app.memrise.com/course/368149/hangugeo-topik-eohwi-gogeub-50-days-advanc
 학습속도
 모델배포
 특징
-알고리즘
+알고리즘  
 
 
 #### 데이터베이스
 
-저장장치
+저장장치 
 index알고리즘
 회복기법
 동시성제어
