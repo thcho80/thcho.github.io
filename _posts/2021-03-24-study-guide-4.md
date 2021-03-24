@@ -9,7 +9,9 @@ tags:
 
 ---
 
+## 단어공부
 
+https://app.memrise.com/course/368149/hangugeo-topik-eohwi-gogeub-50-days-advanced-topik/
 
 ## 접미사
 
@@ -25,10 +27,18 @@ tags:
 매커니즘
 핵심요소
 선결조건
-풍조
-대
-인
 기회비용
+풍조
+대처
+인과관계
+
+동향
+가설
+방향
+전략
+활용
+한계
+위험
 
 ---
 
